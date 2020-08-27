@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'appmap/rspec'
+
 # Disable colors in specs
 require 'rainbow'
 Rainbow.enabled = false
